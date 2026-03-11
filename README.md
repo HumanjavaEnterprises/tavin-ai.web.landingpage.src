@@ -1,16 +1,16 @@
-# tavin-ai.com
+# tavin.ai
 
-Landing page for [tavin-ai.com](https://tavin-ai.com), hosted on GitHub Pages.
+Landing page for [tavin.ai](https://tavin.ai), hosted on GitHub Pages.
 
 ## Setup
 
 - **Repo:** [HumanjavaEnterprises/tavin-ai.web.landingpage.src](https://github.com/HumanjavaEnterprises/tavin-ai.web.landingpage.src)
 - **Pages source:** `main` branch, `/docs` folder
-- **Custom domain:** `tavin-ai.com`
+- **Custom domain:** `tavin.ai`
 
 ## DNS Configuration
 
-Point `tavin-ai.com` to GitHub Pages:
+Point `tavin.ai` to GitHub Pages:
 
 **A records** (apex domain):
 ```
